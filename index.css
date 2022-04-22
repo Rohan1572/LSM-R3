@@ -1,0 +1,20 @@
+/* .MainHeading {
+  width: 5000px;
+} */
+
+body {
+  background-color: antiquewhite;
+}
+
+td {
+  width: 50vw;
+  text-align: center;
+}
+
+img {
+  height: 500px;
+}
+
+.set1 {
+  height: 100vh;
+}
