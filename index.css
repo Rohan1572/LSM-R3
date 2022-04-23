@@ -18,3 +18,19 @@ img {
 .set1 {
   height: 100vh;
 }
+
+.set2 {
+  text-align: center;
+  margin: 0 20%;
+}
+
+.set2 p {
+  margin: 100px 0;
+  font-size: 20px;
+}
+
+.set3 {
+  margin-top: 200px;
+  text-align: center;
+  margin: 0 20%;
+}
