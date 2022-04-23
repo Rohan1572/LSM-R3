@@ -18,7 +18,6 @@ img {
 .set1 {
   height: 100vh;
 }
-
 .set2 {
   text-align: center;
   margin: 0 20%;
@@ -30,7 +29,31 @@ img {
 }
 
 .set3 {
-  margin-top: 200px;
   text-align: center;
   margin: 0 20%;
+}
+
+.set3 p {
+  margin: 100px 0;
+  font-size: 25px;
+}
+
+.set4 {
+  text-align: center;
+}
+
+.row {
+  margin: auto;
+  margin-top: 70px;
+  font-size: 25px;
+}
+
+.copyright {
+  /* background-color: #12a71f; */
+  color: black;
+  padding: 7px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 100px;
 }
